@@ -1,7 +1,12 @@
 aid: torchmark
-url: https://raw.githubusercontent.com/api-evangelist/torchmark/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/torchmark/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.torchmark.com
+description: >-
+  Torchmark Corporation was an insurance holding company whose subsidiaries marketed
+  life and supplemental health insurance and annuities in the United States before
+  being renamed Globe Life.
